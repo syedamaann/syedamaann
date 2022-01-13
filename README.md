@@ -1,16 +1,13 @@
-### Hi there 👋
+# 							 👋 Hi, I'm Syed Amaan
 
-<!--
-**syedamaann/syedamaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 computer engineering undergrad at Thapar Institute of Engineering and Technology 
+- 🔭 I’m currently working on improving my problem solving skills, Data Structures and Algorithms.
+- 🌱 I’m currently learning Flutter Dev, Frontend and Backend technologies, Computer Networking and DBMS
+- 💬 Ask me about anything, happy to help
+- 📫 How to reach me: syedamaann@icloud.com
+- :raised_hands: connect to me: [twitter](https://twitter.com/syedamaann) | [linkedin](https://www.linkedin.com/in/syed-amaan-24395313a/) | [instagram](https://www.instagram.com/syedamaann) 
 
-Here are some ideas to get you started:
+[![Syed Amaan's github stats](https://github-readme-stats.vercel.app/api?username=syedamaann&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedamaann&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
